@@ -1,0 +1,42 @@
+﻿  Array_search.cpp
+C:\Users\Наташа\Desktop\Array_search\Array_search\Modul_array.h(73,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Array_search.cpp")
+  
+C:\Users\Наташа\Desktop\Array_search\Array_search\Modul_array.h(73,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Array_search.cpp")
+  
+C:\Users\Наташа\Desktop\Array_search\Array_search\Modul_array.h(129,2): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+  (компиляция исходного файла "Array_search.cpp")
+  
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(28,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(72,67): warning C4244: =: преобразование "_Rep" в "float", возможна потеря данных
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(72,67): warning C4244:         with
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(72,67): warning C4244:         [
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(72,67): warning C4244:             _Rep=__int64
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(72,67): warning C4244:         ]
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(83,67): warning C4244: =: преобразование "_Rep" в "float", возможна потеря данных
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(83,67): warning C4244:         with
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(83,67): warning C4244:         [
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(83,67): warning C4244:             _Rep=__int64
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(83,67): warning C4244:         ]
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(94,67): warning C4244: =: преобразование "_Rep" в "float", возможна потеря данных
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(94,67): warning C4244:         with
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(94,67): warning C4244:         [
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(94,67): warning C4244:             _Rep=__int64
+C:\Users\Наташа\Desktop\Array_search\Array_search\Array_search.cpp(94,67): warning C4244:         ]
+C:\Users\Наташа\Desktop\Array_search\Array_search\Modul_search.h(144,14): warning C4244: инициализация: преобразование "TArray" в "size_t", возможна потеря данных
+C:\Users\Наташа\Desktop\Array_search\Array_search\Modul_search.h(144,14): warning C4244:         with
+C:\Users\Наташа\Desktop\Array_search\Array_search\Modul_search.h(144,14): warning C4244:         [
+C:\Users\Наташа\Desktop\Array_search\Array_search\Modul_search.h(144,14): warning C4244:             TArray=double
+C:\Users\Наташа\Desktop\Array_search\Array_search\Modul_search.h(144,14): warning C4244:         ]
+  (компиляция исходного файла "Array_search.cpp")
+  C:\Users\Наташа\Desktop\Array_search\Array_search\Modul_search.h(144,14):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Наташа\Desktop\Array_search\Array_search\Modul_search.h(164,20):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "__int64 Search_interpolation<double>(TArray *,size_t,TArray)"
+          with
+          [
+              TArray=double
+          ]
+  
+  Array_search.vcxproj -> C:\Users\Наташа\Desktop\Array_search\x64\Debug\Array_search.exe
