@@ -1,0 +1,17 @@
+﻿  Array_main.cpp
+C:\Users\Наташа\Desktop\Array_main\Array_main\Modul_array.h(73,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Array_main.cpp")
+  
+C:\Users\Наташа\Desktop\Array_main\Array_main\Modul_array.h(73,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Array_main.cpp")
+  
+C:\Users\Наташа\Desktop\Array_main\Array_main\Modul_array.h(129,2): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+  (компиляция исходного файла "Array_main.cpp")
+  
+C:\Users\Наташа\Desktop\Array_main\Array_main\Array_main.cpp(26,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Наташа\Desktop\Array_main\Array_main\Array_main.cpp(50,13): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+C:\Users\Наташа\Desktop\Array_main\Array_main\Array_main.cpp(50,13): warning C4244:         with
+C:\Users\Наташа\Desktop\Array_main\Array_main\Array_main.cpp(50,13): warning C4244:         [
+C:\Users\Наташа\Desktop\Array_main\Array_main\Array_main.cpp(50,13): warning C4244:             _Rep=__int64
+C:\Users\Наташа\Desktop\Array_main\Array_main\Array_main.cpp(50,13): warning C4244:         ]
+  Array_main.vcxproj -> C:\Users\Наташа\Desktop\Array_main\x64\Debug\Array_main.exe
