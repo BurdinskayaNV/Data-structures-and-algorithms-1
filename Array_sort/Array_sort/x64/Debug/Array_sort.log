@@ -1,0 +1,22 @@
+﻿  Array_sort.cpp
+C:\Users\Наташа\Desktop\Array_sort\Array_sort\Modul_array.h(72,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Array_sort.cpp")
+  
+C:\Users\Наташа\Desktop\Array_sort\Array_sort\Modul_array.h(72,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Array_sort.cpp")
+  
+C:\Users\Наташа\Desktop\Array_sort\Array_sort\Modul_sort.h(59,2): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+  (компиляция исходного файла "Array_sort.cpp")
+  
+C:\Users\Наташа\Desktop\Array_sort\Array_sort\Array_sort.cpp(29,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Наташа\Desktop\Array_sort\Array_sort\Array_sort.cpp(75,67): warning C4244: =: преобразование "_Rep" в "float", возможна потеря данных
+C:\Users\Наташа\Desktop\Array_sort\Array_sort\Array_sort.cpp(75,67): warning C4244:         with
+C:\Users\Наташа\Desktop\Array_sort\Array_sort\Array_sort.cpp(75,67): warning C4244:         [
+C:\Users\Наташа\Desktop\Array_sort\Array_sort\Array_sort.cpp(75,67): warning C4244:             _Rep=__int64
+C:\Users\Наташа\Desktop\Array_sort\Array_sort\Array_sort.cpp(75,67): warning C4244:         ]
+C:\Users\Наташа\Desktop\Array_sort\Array_sort\Array_sort.cpp(85,67): warning C4244: =: преобразование "_Rep" в "float", возможна потеря данных
+C:\Users\Наташа\Desktop\Array_sort\Array_sort\Array_sort.cpp(85,67): warning C4244:         with
+C:\Users\Наташа\Desktop\Array_sort\Array_sort\Array_sort.cpp(85,67): warning C4244:         [
+C:\Users\Наташа\Desktop\Array_sort\Array_sort\Array_sort.cpp(85,67): warning C4244:             _Rep=__int64
+C:\Users\Наташа\Desktop\Array_sort\Array_sort\Array_sort.cpp(85,67): warning C4244:         ]
+  Array_sort.vcxproj -> C:\Users\Наташа\Desktop\Array_sort\x64\Debug\Array_sort.exe
