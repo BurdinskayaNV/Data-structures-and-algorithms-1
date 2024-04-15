@@ -1,0 +1,3 @@
+﻿  Analysis.cpp
+C:\Users\Наташа\Desktop\Analysis\Analysis\Analysis.cpp(20,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Analysis.vcxproj -> C:\Users\Наташа\Desktop\Analysis\x64\Debug\Analysis.exe
