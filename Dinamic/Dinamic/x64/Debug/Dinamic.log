@@ -1,0 +1,16 @@
+﻿  Dinamic.cpp
+C:\Users\Наташа\Desktop\Dinamic\Dinamic\ModulDinamic.h(219,41): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Dinamic.cpp")
+  
+C:\Users\Наташа\Desktop\Dinamic\Dinamic\ModulDinamic.h(240,10): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Dinamic.cpp")
+  
+C:\Users\Наташа\Desktop\Dinamic\Dinamic\ModulDinamic.h(244,10): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Dinamic.cpp")
+  
+C:\Users\Наташа\Desktop\Dinamic\Dinamic\Dinamic.cpp(29,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Наташа\Desktop\Dinamic\Dinamic\Dinamic.cpp(57,9): warning C4101: y: неиспользованная локальная переменная
+C:\Users\Наташа\Desktop\Dinamic\Dinamic\Dinamic.cpp(57,6): warning C4101: x: неиспользованная локальная переменная
+C:\Users\Наташа\Desktop\Dinamic\Dinamic\ModulDinamic.h(191,1): warning C4715: Search_pie: значение возвращается не при всех путях выполнения
+C:\Users\Наташа\Desktop\Dinamic\Dinamic\ModulDinamic.h(313,1): warning C4715: Rezult_Eating: значение возвращается не при всех путях выполнения
+  Dinamic.vcxproj -> C:\Users\Наташа\Desktop\Dinamic\x64\Debug\Dinamic.exe
