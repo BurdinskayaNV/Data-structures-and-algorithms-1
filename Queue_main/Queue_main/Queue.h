@@ -23,14 +23,12 @@ public:
 
     // Добавление элемента в очередь
     // param element Добавляемый элемент
-    // BigO: O(1)
     void AddQueue(Type element)
     {
         this->AddFront(element);
     }
 
     // Удаление элемента из очереди, удалится первый вошедший, вернется значение по умолчанию для Type
-    // BigO: O(1)
     Type DelQueue()
     {
         // Если стек пуст
@@ -44,7 +42,6 @@ public:
 
     // Проверяет пуста ли очередь
     // return Значение true||false
-    // BigO: O(1)
     bool isEmpty() {
         bool empty = false;
         if (this->length() == 0)
@@ -72,7 +69,6 @@ public:
 
     // Возращает элемент очереди, готовый к выходу из нее
     // return Элемент, если список пуст, то 0
-    // BigO: O(1)
     Type peek() {
         if (this->isEmpty())
         {
